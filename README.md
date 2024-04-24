@@ -1,1 +1,2 @@
-# online_judge
+# これなに
+Rust のお勉強
